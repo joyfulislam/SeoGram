@@ -1,0 +1,55 @@
+.bgimg{
+    background-image:linear-gradient(to left, rgba(0,0,0,.6), rgba(0,0,0,.6)), url(../assets/image/banner.jpg);
+    background-attachment: fixed;
+}
+.first{
+    background-color: #3ec2a0;
+}
+.second{
+    background-color: #17a2b8;
+}
+
+.cfirst{
+    color:#3ec2a0;
+}
+.csecond{
+    color: #17a2b8;
+}
+
+.ash{
+    color: #e2e2e2;
+}
+
+.underline:hover{
+    text-decoration: underline;
+    color: #3ec2a0 !important;
+}
+.bghover:hover{
+    background-color: #3ec2a0;
+}
+.bg_hover:hover{
+    background-color: transparent;
+}
+.line{
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+}
+
+.extrahover:hover{
+    background-color: transparent;
+    color: #000 !important;
+    border: 1px solid #000;
+}
+
+.work:hover{
+    background-color: #212529 !important;
+    color: #fff;
+}
+.hire:hover{
+    background-color: #fff !important;
+    color: #212529 !important;
+}
+
+.facebook:hover{
+    color: #fff !important;
+}
